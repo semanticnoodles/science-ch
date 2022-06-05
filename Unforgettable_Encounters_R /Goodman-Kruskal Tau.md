@@ -1,9 +1,5 @@
----
-title: "Goodman Kruskal Association Plots"
-author: "semanticnoodles"
-output: 
----
- # About Goodman-Kruskal Tau
+# Goodman Kruskal Association Plots"
+## About Goodman-Kruskal Tau
 The Goodman-Kruskal Tau is an asymmetric association measure between two categorical variables, based on the extent to which variation in one variable can be explained by the other. This function returns an S3 object of class 'GKtauMatrix' that gives the number of levels for each variable on the diagonal of the matrix and the association between variables in the off-diagonal elements. Note that this matrix is generally NOT symmetric, in contrast to standard correlation matrices.
 
 # Workflow
